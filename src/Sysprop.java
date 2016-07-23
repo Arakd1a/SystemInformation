@@ -4,7 +4,7 @@ import java.net.URL;
 import java.net.UnknownHostException;
 import java.io.*;
 public class Sysprop {
-//VARS===========================================================	
+//VARS===========================================================TEST	
 	static File 			cDrive 				= new File("c:");
 	static File 			dDrive 				= new File("d:");
 	static String 			computerName		= null; 
